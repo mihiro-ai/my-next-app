@@ -15,7 +15,7 @@ export default function Productslist() {
           </li>
           <li className={styles.listItem}>
             <Link href="/products/pc" className={styles.link}>
-              PC
+              パソコン
             </Link>
           </li>
           <li className={styles.listItem}>
